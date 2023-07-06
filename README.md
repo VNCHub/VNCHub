@@ -21,9 +21,11 @@ Let's collaborate, innovate, and make a difference through code! 👥💡💪
     <table>
       <tr>
         <th>Java</th>
+        <th>Go</th>
       </tr>
       <tr>
         <td> <img src="https://www.svgrepo.com/download/184143/java.svg" width="50" height="50"/> </td>
+        <td> <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="50" height="50"/> </td>
       </tr>
     </table>
 

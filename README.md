@@ -20,10 +20,12 @@ Some technologies and tools that I used for the projects in this portfolio. 🤓
   <td>
     <table>
       <tr>
+        <th>PHP</th>
         <th>Go</th>
         <th>Java</th>
       </tr>
       <tr>
+        <td> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="50" height="50"/> </td>
         <td> <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="50" height="50"/> </td>
         <td> <img src="https://www.svgrepo.com/download/184143/java.svg" width="50" height="50"/> </td>
       </tr>

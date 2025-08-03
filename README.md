@@ -7,7 +7,8 @@ Let's connect and explore the fascinating realm of programming together! 💻�
 Feel free to reach out for questions, ideas, or suggestions. 📩<br>
 Let's collaborate, innovate, and make a difference through code! 👥💡💪
 
-### Tools and Technologies
+
+## Tools and Technologies
 Some technologies and tools that I used for the projects in this portfolio. 🤓
 
 <table>
@@ -47,3 +48,11 @@ Some technologies and tools that I used for the projects in this portfolio. 🤓
     </table>
   </td>
 </table>
+
+## More about me
+#### Main Current project
+[Here](), You can see details of the project i'm working now (public version), with a presentation Video. (coming soon)
+
+#### Certificates
+Here ([pt-BR](certificates_ptBR.md)/ [en-US](certificates_enUS.md)), You can see a list of certificates i've got in my studies. Segmented By Category.
+You can also see all my certificates (here), for security reasons ask for access. Will help if you send me a message in my Linkedln profile!.

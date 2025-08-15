@@ -55,4 +55,4 @@ Some technologies and tools that I used for the projects in this portfolio. 🤓
 
 #### Certificates
 Here ([pt-BR](certificates_ptBR.md)/ [en-US](certificates_enUS.md)), You can see a list of certificates i've got in my studies. Segmented By Category.
-You can also see all my certificates (here), for security reasons ask for access. Will help if you send me a message in my Linkedln profile!.
+You can also see all my certificates at [Google Drive](https://drive.google.com/drive/folders/1nsXUopG-puhYPnHadWBrsCVfn2VShntL?usp=drive_link), for security reasons ask for access. Feel free to send me a message. 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ✨ Welcome to my repository! ✨
-I'm **Vinicius Carrocine**, a programming enthusiast pursuing a degree in Science and Technology. 🚀<br>
+I'm **Vinicius Carrocine**, a Developer pursuing a degree in Science and Technology. 🚀<br>
 Here, you'll find my projects, experiments, and contributions to the open-source community. 🌟<br>
 Feel free to reach out for questions, ideas, or suggestions. 📩<br>
 

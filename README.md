@@ -19,7 +19,7 @@ Due to confidentiality, source code, business rules, infrastructure details, int
 
 ## Tools and Technologies
 
-Some technologies and tools I use or have worked with across professional projects, public repositories, and academic studies.
+These are some technologies and tools I use or have worked with in professional, academic, and personal projects.
 
 ### Languages
 
@@ -57,7 +57,7 @@ Some technologies and tools I use or have worked with across professional projec
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-copilot-dark.webp" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />&nbsp;
 </p>
 
-## More about me
+## Highlighted Projects
 ### Production and Applied Projects
 
 * [**Saber X - Plataforma de Cursos**](https://plataforma.saberxcursos.com.br/courses)

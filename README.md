@@ -16,25 +16,6 @@ I currently work as a Back-end Developer with experience in private and professi
 My technical experience includes working with concepts and technologies such as AWS, Certificate Authorities, DigiCert, Let's Encrypt, gRPC, NATS, Kafka, Kubernetes, Teleport, Telepresence, and secure back-end development practices.
 
 Due to confidentiality, source code, business rules, infrastructure details, internal architecture, and project-specific information are not public.
-## Highlighted Projects
-
-These are some public projects and study repositories that represent my technical interests and development experience.
-
-### Production and Applied Projects
-
-* [**Saber X - Plataforma de Cursos**](https://plataforma.saberxcursos.com.br/courses)
-  Online platform for medical specialization courses, developed with PHP, Laravel, Docker, PostgreSQL, and other tools.
-
-* [**Schedule for University**](https://github.com/VNCHub/typescript-unifesp)
-  Web application for organizing university subjects and tracking study notes. Developed with TypeScript, EJS, Prisma ORM, SQLite, and Express.
-
-### Current Studies and Technical Exploration
-
-* [**Design Patterns With PHP**](https://github.com/VNCHub/design-patterns-with-php)
-  Practical study project focused on applying classic design patterns in PHP with a clean and maintainable structure.
-
-* [**MINIX**](https://github.com/VNCHub/minix)
-  Ongoing study on the MINIX source tree, including low-level system components and operating system behavior.
 
 ## Tools and Technologies
 
@@ -77,16 +58,21 @@ Some technologies and tools I use or have worked with across professional projec
 </p>
 
 ## More about me
-#### Current projects
-You can see details of the projects I'm working on now (public versions).
-* [Here](https://github.com/VNCHub/design-patterns-with-php), **Design Patterns With PHP** - a practical study project focused on applying classic design patterns in PHP with a clean and maintainable structure.
-* [Here](https://github.com/VNCHub/minix), **MINIX** - ongoing work and study on the MINIX source tree, including low-level system components and operating system behavior.
+### Production and Applied Projects
 
+* [**Saber X - Plataforma de Cursos**](https://plataforma.saberxcursos.com.br/courses)
+  Online platform for medical specialization courses, developed with PHP, Laravel, Docker, PostgreSQL, and other tools.
 
-#### Other Projects I've developed
-* [Here](https://plataforma.saberxcursos.com.br/courses), **Saber X - Plataforma de Cursos. (in production)** - An online platform for medical specialization courses. Developed with PHP, Laravel, Docker, PostgreSQL, and other tools.
+* [**Schedule for University**](https://github.com/VNCHub/typescript-unifesp)
+  Web application for organizing university subjects and tracking study notes. Developed with TypeScript, EJS, Prisma ORM, SQLite, and Express.
 
-* [Here](https://github.com/VNCHub/typescript-unifesp), **Schedule for University (local use only)** - a web application where you can organize current subjects and track study notes. Developed using TypeScript, EJS, Prisma ORM, and other tools.
+### Current Studies and Technical Exploration
+
+* [**Design Patterns With PHP**](https://github.com/VNCHub/design-patterns-with-php)
+  Practical study project focused on applying classic design patterns in PHP with a clean and maintainable structure.
+
+* [**MINIX**](https://github.com/VNCHub/minix)
+  Ongoing study on the MINIX source tree, including low-level system components and operating system behavior.
 
 ## Contact
 

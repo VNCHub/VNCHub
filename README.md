@@ -1,113 +1,48 @@
 ### Hi there
 
-<<<<<<< Updated upstream
-## ✨ Welcome to my repository! ✨
-I'm **Vinicius Carrocine**, a Developer pursuing a degree in Science and Technology. 🚀<br>
-Here, you'll find my projects, experiments, and contributions to the open-source community. 🌟<br>
-Feel free to reach out for questions, ideas, or suggestions. 📩<br>
-=======
 ## Welcome to my repository
 I'm **Vinicius Carrocine**, a developer pursuing a degree in Science and Technology.<br>
 Here, you'll find my projects, experiments, and contributions to the open-source community.<br>
 Feel free to reach out for questions, ideas, or suggestions.<br>
->>>>>>> Stashed changes
 
 ## Tools and Technologies
 Some technologies and tools that I used across the projects in this portfolio.
 
 ### Languages
-<table>
-	<tr>
-		<td align="center"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" /><br>PHP</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" /><br>Go</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" /><br>TypeScript</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /><br>Python</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" /><br>JavaScript</td>
-	</tr>
-	<tr>
-		<td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /><br>HTML</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /><br>CSS</td>
-		<td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /><br>C</td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="48" height="48" />
+</p>
 
 ### Frameworks and Libraries
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" />
-      <br>Laravel
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://avatars.githubusercontent.com/u/44228082?v=4" alt="Hyperf" width="48" height="48" />
-      <br>Hyperf
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="48" height="48" />
-      <br>Symfony
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="96">
-      <img src="https://www.prisma.io/images/logo.svg" alt="Prisma" width="48" height="48" />
-      <br>Prisma
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://www.doctrine-project.org/favicon.ico" alt="Doctrine" width="48" height="48" />
-      <br>Doctrine
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://gorm.io/gorm.svg" alt="GORM" width="48" height="48" />
-      <br>GORM
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="48" height="48" />&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/44228082?v=4" alt="Hyperf" title="Hyperf" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" title="Symfony" width="48" height="48" />&nbsp;
+  <img src="https://www.prisma.io/images/logo.svg" alt="Prisma" title="Prisma" width="48" height="48" />&nbsp;
+  <img src="https://www.doctrine-project.org/favicon.ico" alt="Doctrine" title="Doctrine" width="48" height="48" />&nbsp;
+</p>
 
 ### Infrastructure and Tools
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-      <br>Docker
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-      <br>MySQL
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
-      <br>GitHub Actions
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://cdn.terminaltrove.com/m/8e32f9df-eb63-4b3e-8075-e381a1ce2974.png" alt="Claude Code" width="48" height="48" />
-      <br>Claude Code
-    </td>
-    <td align="center" valign="top" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-copilot-dark.webp" alt="GitHub Copilot" width="48" height="48" />
-      <br>GitHub Copilot
-    </td>
-    <td width="96"></td>
-    <td width="96"></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />&nbsp;
+  <img src="https://cdn.terminaltrove.com/m/8e32f9df-eb63-4b3e-8075-e381a1ce2974.png" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-copilot-dark.webp" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />&nbsp;
+</p>
 
 ## More about me
 #### Current projects

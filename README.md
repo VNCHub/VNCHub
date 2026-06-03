@@ -1,12 +1,44 @@
+
 ### Hi there
 
 ## Welcome to my repository
-I'm **Vinicius Carrocine**, a developer pursuing a degree in Science and Technology.<br>
-Here, you'll find my projects, experiments, and contributions to the open-source community.<br>
-Feel free to reach out for questions, ideas, or suggestions.<br>
+
+I'm **Vinicius Carrocine**, a Back-end Developer and Science and Technology student.
+
+My main focus is back-end development, with experience in PHP, Laravel, Hyperf, Docker, PostgreSQL, cloud integrations, distributed systems, and secure software development.
+
+Here, you'll find public projects, study repositories, experiments, and technical work that reflect my learning path and professional interests.
+
+## Professional Experience Highlights
+
+I currently work as a Back-end Developer with experience in private and professional environments involving cloud integrations, distributed systems, digital certificates, multitenant architecture, and service-to-service communication.
+
+My technical experience includes working with concepts and technologies such as AWS, Certificate Authorities, DigiCert, Let's Encrypt, gRPC, NATS, Kafka, Kubernetes, Teleport, Telepresence, and secure back-end development practices.
+
+Due to confidentiality, source code, business rules, infrastructure details, internal architecture, and project-specific information are not public.
+## Highlighted Projects
+
+These are some public projects and study repositories that represent my technical interests and development experience.
+
+### Production and Applied Projects
+
+* [**Saber X - Plataforma de Cursos**](https://plataforma.saberxcursos.com.br/courses)
+  Online platform for medical specialization courses, developed with PHP, Laravel, Docker, PostgreSQL, and other tools.
+
+* [**Schedule for University**](https://github.com/VNCHub/typescript-unifesp)
+  Web application for organizing university subjects and tracking study notes. Developed with TypeScript, EJS, Prisma ORM, SQLite, and Express.
+
+### Current Studies and Technical Exploration
+
+* [**Design Patterns With PHP**](https://github.com/VNCHub/design-patterns-with-php)
+  Practical study project focused on applying classic design patterns in PHP with a clean and maintainable structure.
+
+* [**MINIX**](https://github.com/VNCHub/minix)
+  Ongoing study on the MINIX source tree, including low-level system components and operating system behavior.
 
 ## Tools and Technologies
-Some technologies and tools that I used across the projects in this portfolio.
+
+Some technologies and tools I use or have worked with across professional projects, public repositories, and academic studies.
 
 ### Languages
 

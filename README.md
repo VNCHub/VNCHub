@@ -86,3 +86,100 @@ Feel free to reach out if you want to talk about projects, backend development, 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+# Image Rendering Tests
+
+## Attempt 1 - Current implementation (baseline)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />&nbsp;
+</p>
+
+---
+
+## Attempt 2 - Remove &nbsp;
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48">
+</p>
+
+---
+
+## Attempt 3 - Single line (no indentation)
+
+<p><img src="https://skillicons.dev/icons?i=php" width="48" height="48"><img src="https://skillicons.dev/icons?i=go" width="48" height="48"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"></p>
+
+---
+
+## Attempt 4 - Markdown images
+
+![](https://skillicons.dev/icons?i=php)
+![](https://skillicons.dev/icons?i=go)
+![](https://skillicons.dev/icons?i=typescript)
+![](https://skillicons.dev/icons?i=python)
+
+---
+
+## Attempt 5 - Markdown images on one line
+
+![](https://skillicons.dev/icons?i=php)![](https://skillicons.dev/icons?i=go)![](https://skillicons.dev/icons?i=typescript)![](https://skillicons.dev/icons?i=python)
+
+---
+
+## Attempt 6 - Images inside links
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=go" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="48"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48"></a>
+</p>
+
+---
+
+## Attempt 7 - Align center
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" width="48">
+  <img src="https://skillicons.dev/icons?i=go" width="48">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48">
+  <img src="https://skillicons.dev/icons?i=python" width="48">
+</p>
+
+---
+
+## Attempt 8 - Width only
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php" width="48">
+  <img src="https://skillicons.dev/icons?i=go" width="48">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48">
+  <img src="https://skillicons.dev/icons?i=python" width="48">
+</p>
+
+---
+
+## Attempt 9 - Using skillicons grouped API
+
+<img src="https://skillicons.dev/icons?i=php,go,typescript,python" />
+
+---
+
+## Attempt 10 - HTML table
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=php" width="48"></td>
+<td><img src="https://skillicons.dev/icons?i=go" width="48"></td>
+<td><img src="https://skillicons.dev/icons?i=typescript" width="48"></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="48"></td>
+</tr>
+</table>
